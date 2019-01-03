@@ -4,3 +4,6 @@ Vincze Flórián
 
 Megegyeztünk, hogy a projekt egy számológép lesz, amiben váltani lehet tudományos és sima nézet között.
 Továbbá megegyeztünk, hogy minden nap egy fél órás meeting-et tartunk, amelynek idõpontját Trelloban vezetjük.
+
+A mai nap Létrehoztuk a github repositorie-t illetve a trellot. 
+Illetve a tortoisegit telepítette Flórián mert neki nem volt meg.
