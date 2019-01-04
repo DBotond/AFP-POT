@@ -5,5 +5,5 @@ Vincze Flórián
 
 A mai meetingen az alábbi feladatokat osztottuk ki a dokumentációra:
 
--Dudás Botond: A rendszer funkcionális specifikációjának tervezése.
--
+ - Dudás Botond: A rendszer funkcionális specifikációjának tervezése.
+ - Vincze Flórián: A  Követelmény specifikációnak meg tervezése.
