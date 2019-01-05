@@ -1,0 +1,21 @@
+Funkcionális specifikáció
+-------------------------
+
+A rendszer céljai:
+------------------
+A rendszer célja, hogy a felhasználó egy használható számológépet kaphasson.
+A rendszer használható legyen alkalmazás formájában.
+A rendszer Windows 7+ verziókban legyen használható.
+
+
+Jelenlegi helyzet leírása:
+--------------------------
+A megrendelõ szeretne egy általa specifikált számítógépet, amely 
+több funkcionalitással rendelkezik, mint a Windowsba beépített.
+
+
+Vágyálom rendszer leírása:
+--------------------------
+A rendszerben legyen egy felhasználó által is elérhetõ, beviteli és egyben kiviteli mezõ is.
+A rendszerben legyenek gombnyomásra mûködõ függvények, amelyek elvégzik a számolásokat.
+A rendszerben legyen egy dec-hex átváltó funkció is.
