@@ -1,0 +1,19 @@
+Nagyvonalú rendszerterv
+A rendszerterv egy írásban rögzített specifikáció, amely leírja
+
+mit (rendszer),
+
+miért (rendszer célja),
+
+hogyan (terv),
+
+mikor (idõpont),
+
+és mibõl (erõforrások)
+
+akarunk a jövõben létrehozni. 
+Fontos, hogy reális legyen, azaz megvalósítható lépéseket írjon elõ. 
+A rendszerterv hasonló szerepet játszik a szoftverfejlesztésben, mint a tervrajz az építkezéseken,
+ tehát elég részletesnek kell lennie,
+ hogy ebbõl a programozók képesek legyenek megvalósítani a szoftvert.
+ A rendszerterv vagy új rendszert ír le, vagy egy meglévõ átalakítását.
