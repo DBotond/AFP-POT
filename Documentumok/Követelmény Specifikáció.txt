@@ -1,10 +1,24 @@
 Jelenlegi helyzet:
 ------------------
-   Egy olyan rendszer létrehozása, melyben a felhasználó matematikai számításait el tudja végezni.Egy számológép
+
+ 	  Egy olyan rendszer létrehozása, melyben a felhasználó matematikai számításait el tudja végezni.Egy számológép
+
 
 Vágyálom rendszer:
 ------------------
 
-   A végcél egy olyan mûködõ Számológép, melyben a felhasználók egyszerûen, általuk kiválasztott nézetben tudja végezni a számításait
-   A projekt elsõ változatában még nem az összes nézetet/módot építenénk be, ezt a késõbbiekben pótolnánk patch-ek formájában.
-   Az alap verzió egyelõre kettõ lehetõséget tartalmazna az Egyszerû nézetet, valamint a Tudományosat. Késöbbiekben akár programozói nézet vagy mértékegység áltváltás is lehetséges..
+  	 A végcél egy olyan mûködõ Számológép, melyben a felhasználók egyszerûen, általuk kiválasztott nézetben tudja végezni a számításait
+  	 A projekt elsõ változatában még nem az összes nézetet/módot építenénk be, ezt a késõbbiekben pótolnánk patch-ek formájában.
+   	 Az alap verzió egyelõre kettõ lehetõséget tartalmazna az Egyszerû nézetet, valamint a Tudományosat. Késöbbiekben akár programozói nézet vagy mértékegység áltváltás is lehetséges..
+
+Követelménylista:
+------------------
+
+	Az elvárás az hogy legyen egy mûködõ képes számológép.
+	Ami nyújtson lehetõséget különbözõ nézetek közötti válastásra.
+	Szükséges hogy legalább az alap nézet mûködjön.
+	Jólenne Ha a tudományos nézet is mûködne.
+	Illetve tegye lehetõvé további nézetek hozzá adását.
+
+
+
