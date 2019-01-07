@@ -1,10 +1,16 @@
-?A Rendszer céljai:
+A Rendszer céljai:
 -----------------
 
 
 Fejlesztõi csapat
 Dudás Botond
 Vincze Flórián
+
+Fizikai környezet:
+-----------------
+Ahhoz, hogy a a kész szoftvert számítógépen használhassuk, szükség van egy Windows vagy macOS vagy Linux operációs rendszert futtató számítógépre.
+Az szoftver fejlesztése a Visual Studio-ban történik.
+
 
 Telepítési terv:
 ---------------
@@ -14,7 +20,7 @@ A fizika telepítési terv:
 
 A szoftver telepítési terv:
   
-- A szoftverhez Windows 7, vagy azután rendszer szükséges.
+- A szoftverhez Windows xp, vagy azután rendszer szükséges.
   A telepítést egy telepítõ végzi el.
   
 Karbantartási terv:
