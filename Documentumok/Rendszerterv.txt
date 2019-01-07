@@ -1,6 +1,9 @@
 A Rendszer céljai:
 -----------------
-
+-A rendszer célja, hogy a felhasználó a Számításait különbözõ feladatokat tudjon megoldani.
+-Fontos, hogy a felhasználó könnyen el tudjon igazodni a felületeken, ezért egy minimalista, egyszerû kinézetet adunk a programnak.
+-Képes Legyen következõ müveletek elvégzésére: összeadás,kivonás,szorzás,osztás,maradékos osztás, 
+		Szögfügvények: szinusz,cosinusz,tangens,hatványozás,Logaritmus,faktoriális,gyökvonás,törlés
 
 Fejlesztõi csapat
 Dudás Botond
