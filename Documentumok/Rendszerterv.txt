@@ -1,19 +1,91 @@
-Nagyvonalú rendszerterv
-A rendszerterv egy írásban rögzített specifikáció, amely leírja
+?A Rendszer céljai:
+-----------------
 
-mit (rendszer),
 
-miért (rendszer célja),
+Fejlesztõi csapat
+Dudás Botond
+Vincze Flórián
 
-hogyan (terv),
+Telepítési terv:
+---------------
+A fizika telepítési terv:
 
-mikor (idõpont),
+- Csak a felhasználó számítógépére van szükség.
 
-és mibõl (erõforrások)
+A szoftver telepítési terv:
+  
+- A szoftverhez Windows 7, vagy azután rendszer szükséges.
+  A telepítést egy telepítõ végzi el.
+  
+Karbantartási terv:
+------------------
+A szoftver a jövõben nem igényel nagy karbantartásokat,
+ezek az alábbi részekre bonthatók:
 
-akarunk a jövõben létrehozni. 
-Fontos, hogy reális legyen, azaz megvalósítható lépéseket írjon elõ. 
-A rendszerterv hasonló szerepet játszik a szoftverfejlesztésben, mint a tervrajz az építkezéseken,
- tehát elég részletesnek kell lennie,
- hogy ebbõl a programozók képesek legyenek megvalósítani a szoftvert.
- A rendszerterv vagy új rendszert ír le, vagy egy meglévõ átalakítását.
+-  Hiba keletkezése esetén annak javítása.
+
+- Igény esetén új funkció vagy feladat típus hozzáadása.
+
+Tesztelési terv:
+---------------
+Funkcionális teszt
+
+
+Bevezetés
+
+A Rendszer Funkcionális Teszt (RFT) a rendszer egészének, beleértve a környezeti eljárásokat is, alapos tesztelések elõre meghatározott tesztadatokkal, amiket lehetséges tesztelõ eszközökkel kell végezni.
+A tesztelések célja a rendszer és komponensei funkcionalitásának teljes vizsgálata, ellenõrzése, a rendszer által megvalósított üzleti szolgáltatások verifikálása.
+
+Tesztelési eljárások
+
+Teszteset azonosító: 001 – Alfa teszt
+  - Idõtartam: 1 nap
+  - Teszt kezdete: 2019/01/08
+  - Teszt befejezése: 2018/12/09
+  - A teszt elsõdleges célja: az eddig meglévõ funkcióknak a tesztelése. A tesztet a fejlesztõk végzik.
+  - Az eljárás sikeres, ha megfelelõen mûködnek a különbözõ funkciók.
+
+Tesztelés azonosító: 002 – Béta teszt
+  - Idõtartam: 1 nap
+  - Teszt kezdete: 2019/01/09
+  - Teszt befejezése: 2019/01/10
+  - A teszt elsõdleges célja: Minden meglévõ funkció megfelelõ mûködésének ellenõrzése. A tesztet a fejlesztõk és harmadik személyek végzik.
+  - Az eljárás sikeres, ha minden funkció megfelelõen mûködik a harmadik személyek által tesztelve is.
+
+Tesztterv
+---------
+Ennek a dokumentumnak az a célja, hogy Tudományos számológép program megvalósítása projektben a rendszerek tesztelési elvárásait ismertesse.
+A projekt sikeres befejezésének eszköze a tesztelési terv és a tesztelési jegyzõkönyvek.
+Akkor tekinthetõ egy adott részrendszer tesztelése sikeresnek, ha 
+  - a tesztelési jegyzõkönyvnek mezõi 98%-ban MEGFELELTEK , azaz
+  - a specifikációban elfogadott funkciók mûködnek,
+A rendszertesztelési terv általánosan ismerteti a tesztelés folyamatát. 
+
+
+Tesztelés menete
+----------------
+1.2019/01/
+A tesztelés lezárása, az átadás-átvételi folyamat megkezdése.
+2.2019/01/
+Az üzembe állításhoz szükséges dokumentációk Megrendelõnek történõ átadása, éles üzembe állítás.
+
+
+Tesztelési folyamat leírása
+---------------------------
+Az alfa és béta tesztek során a fejlesztõk létrehozzák a jegyzõkönyv sablonját, majd felteszik egy online felületre.
+A tesztelõk megnyitják az alkalmazást és elkezdik normál felhasználóként használni.
+A felmerülõ hibákat, esetleg nem várt viselkedést feljegyzik a jegyzõkönyvbe. Az alfa teszt esetén ez a következõket tartalmazza:
+- Tesztelõ neve
+- Rögzítés ideje
+- A hiba helye
+- A hiba leírása
+- Opcionális mellékletek
+
+A béta teszt jegyzõkönyvének mezõi:
+- Tesztelõ neve
+- Tesztelt elem
+- Tesztelt elem funkciója
+- Tesztelt elem helye az alkalmazásban
+
+A tesztek után a jegyzõkönyv véglegesítésre kerül, felkerül a verziókezelõ rendszerbe. A felvett
+hibákat a fejlesztõk ellenõrzik, reprodukálják, és létrehoznak hozzá egy feladatot majd javítják.
