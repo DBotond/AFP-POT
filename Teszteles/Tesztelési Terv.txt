@@ -1,0 +1,14 @@
+2019.01.09.
+Dudás Botond
+Vincze Flórián
+
+Tesztelési Terv:
+----------------
+
+- Gombok mûködése
+- Pontos input bemeneti adatok (a számok azokat a számokat adják ki amit kel,
+	 a müveletek azokat a müveleteket csinálják amit kell).
+- a Kimeneti adatok pontos megjelenítése
+- müveletek egymás utáni leütését hogy kezeli le
+- nem elvégezhetõ mûveletek elvégzése (pl 0-val való osztás)
+- Stabilitás teszt
