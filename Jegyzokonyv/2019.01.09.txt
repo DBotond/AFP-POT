@@ -1,0 +1,12 @@
+2019.01.09.
+Dudás Botond
+Vincze Flórián
+
+----------------
+
+A mai napon Megírtuk a Tesztelés tervet.
+
+Teszteltük a 0-val való osztás.
+Hibakód:  divided by 0 exception.
+Hiba Kijavítva.
+
