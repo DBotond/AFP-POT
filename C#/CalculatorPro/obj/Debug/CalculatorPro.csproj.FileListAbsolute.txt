@@ -17,3 +17,13 @@ D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\obj\Debug\Calcula
 D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\obj\Debug\CalculatorPro.csproj.CoreCompileInputs.cache
 D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\obj\Debug\CalculatorPro.exe
 D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\obj\Debug\CalculatorPro.pdb
+C:\Users\Valtiel\Desktop\git\AFP-POT\C#\CalculatorPro\bin\Debug\CalculatorPro.exe.config
+C:\Users\Valtiel\Desktop\git\AFP-POT\C#\CalculatorPro\bin\Debug\CalculatorPro.exe
+C:\Users\Valtiel\Desktop\git\AFP-POT\C#\CalculatorPro\bin\Debug\CalculatorPro.pdb
+C:\Users\Valtiel\Desktop\git\AFP-POT\C#\CalculatorPro\obj\Debug\CalculatorPro.csprojAssemblyReference.cache
+C:\Users\Valtiel\Desktop\git\AFP-POT\C#\CalculatorPro\obj\Debug\CalculatorPro.Form1.resources
+C:\Users\Valtiel\Desktop\git\AFP-POT\C#\CalculatorPro\obj\Debug\CalculatorPro.Properties.Resources.resources
+C:\Users\Valtiel\Desktop\git\AFP-POT\C#\CalculatorPro\obj\Debug\CalculatorPro.csproj.GenerateResource.cache
+C:\Users\Valtiel\Desktop\git\AFP-POT\C#\CalculatorPro\obj\Debug\CalculatorPro.csproj.CoreCompileInputs.cache
+C:\Users\Valtiel\Desktop\git\AFP-POT\C#\CalculatorPro\obj\Debug\CalculatorPro.exe
+C:\Users\Valtiel\Desktop\git\AFP-POT\C#\CalculatorPro\obj\Debug\CalculatorPro.pdb

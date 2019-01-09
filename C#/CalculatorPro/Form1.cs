@@ -103,7 +103,9 @@ namespace CalculatorPro
                     textBox1.Text = (num1 * num2).ToString();
                     break;
                 case "/":
-                    textBox1.Text = (num1 / num2).ToString();
+                    if (num2 != 0)
+                        textBox1.Text = (num1 / num2).ToString();
+                    else textBox1.Text = "Syntax Error";
                     break;
                 case "^":
                     textBox1.Text = (int.Parse(num1.ToString()) ^ int.Parse(num2.ToString())).ToString();
