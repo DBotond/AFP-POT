@@ -1,1 +1,23 @@
-2019.01.09  >>>Alfa teszt<<<
+2019.01.10  >>>Alfa teszt 1.1<<<
+Dudás Botond
+Vincze Flórián
+---------------------------------------
+Gombok működése: Mindengombműködőképes.
+
+---------------------------------------
+Pontos input bemeneti adatok (a számok azokat a számokat adják ki amit kel,a müveletek azokat a müveleteket csinálják amit kell):
+Minden gomb a megfelelő számot adja meg, illetve műveletet végzi el.
+---------------------------------------
+a Kimeneti adatok pontos megjelenítése:
+
+---------------------------------------
+müveletek egymás utáni leütését hogy kezeli le:
+
+---------------------------------------
+nem elvégezhető műveletek elvégzése (pl 0-val való osztás):
+
+---------------------------------------
+Stabilitás teszt:
+Normál Használatra Tökéletes.
+Ha összevissza gyorsan nyomogadjuk a gombokat vagy a képernyőn a kurzorral húzzuk össze vissza a klienst
+akkor Instabil lessz és ki crashel
