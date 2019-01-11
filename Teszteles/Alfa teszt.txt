@@ -1,22 +1,24 @@
-2019.01.10  >>>Alfa teszt 1.1<<<
+﻿2019.01.10  >>>Alfa teszt 1.1<<<
 Dudás Botond
 Vincze Flórián
 ---------------------------------------
-Gombok működése: Mindengombműködőképes.
+Gombok működése: Minden gomb működőképes.
 
 ---------------------------------------
 Pontos input bemeneti adatok (a számok azokat a számokat adják ki amit kel,a müveletek azokat a müveleteket csinálják amit kell):
 Minden gomb a megfelelő számot adja meg, illetve műveletet végzi el.
-A Hatványozás gombal volt egydül gond de 2019.01.10-én ki lett javítva
+A Hatványozás gombbal volt egyedül gond, de 2019.01.10-én ki lett javítva
 
 ---------------------------------------
 a Kimeneti adatok pontos megjelenítése:
+A kimeneti adatok rendben vannak.
 
 ---------------------------------------
 müveletek egymás utáni leütését hogy kezeli le:
-
+A műveletek egymás utáni leütése minden tesztelt variációban rendesen működött.
 ---------------------------------------
 nem elvégezhető műveletek elvégzése (pl 0-val való osztás):
+A nullával való osztás a program összeomlását okozta, 2019.01.09-én javítva.
 
 ---------------------------------------
 Stabilitás teszt:
