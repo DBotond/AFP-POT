@@ -1,4 +1,4 @@
-2019.01.09.
+2019.01.10.
 Dudás Botond
 Vincze Flórián
 
@@ -7,3 +7,4 @@ Vincze Flórián
 A mai napon Megcsináltuk a Tesztelést a tesztelési terv alapján és szétosztottuk a feladatokat.
 
 Hibás hatványozási funció javítva.
+Kimeneti adatok és egymás utáni mûveletek tesztelve.
